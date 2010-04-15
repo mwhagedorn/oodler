@@ -12,50 +12,35 @@ Ruby wrapper for the [Oodle API](http://developer.oodle.com). Heavily inspired b
 
 ### Authenticate
 
-LinkedIn's API uses Oauth for authentication. Luckily, the LinkedIn gem hides most of the gory details from you.
+Ooodle's API uses  a key for authentication, you can get a key at http://developer.oodle.com/request-api-key/
 
     require 'rubygems'
-    require 'linkedin'
+    require 'oodler'
 
     # get your api keys at https://www.linkedin.com/secure/developer
-    client = LinkedIn::Client.new('your_consumer_key', 'your_consumer_secret')
-    rtoken = client.request_token.token
-    rsecret = client.request_token.secret
-
-    # to test from your desktop, open the following url in your browser
-    # and record the pin it gives you
-    client.request_token.authorize_url
-    => "https://api.linkedin.com/uas/oauth/authorize?oauth_token=<generated_token>"
-
-    # then fetch your access keys
-    client.authorize_from_request(rtoken, rsecret, pin)
-    => ["OU812", "8675309"] # <= save these for future requests
-
-    # or authorize from previously fetched access keys
-    c.authorize_from_access("OU812", "8675309")
-
-    # you're now free to move about the cabin, call any API method
+    client = Oodler::Client.new("YOURAPIKEY")
 
 ### Profile examples
 
     # get the profile for the authenticated user
-    client.profile
+    result = client.listing({:region => "chicago",:category => "vehicle/car"})
 
-    # get a profile for someone found in network via ID
-    client.profile(:id => 'gNma67_AdI')
+    puts result.listings[0].id
+    puts result.listings[0].title
+    puts result.listings[0].id
+    puts result.listings[0].body
+    puts result.listings[0].url
+    puts result.listings[0].images[0].src
 
-    # get a profile for someone via their public profile url
-    client.profile(:url => 'http://www.linkedin.com/in/netherland')
+    ..etc
+
+
     
 
 
-More examples in the [examples folder](http://github.com/pengwynn/linkedin/blob/master/examples).
+ TODO
 
-
-
-## TODO
-
-* Implement Messaging APIs
+* Nothing yet
 
 ## Note on Patches/Pull Requests
  
@@ -70,4 +55,4 @@ More examples in the [examples folder](http://github.com/pengwynn/linkedin/blob/
 
 ## Copyright
 
-Copyright (c) 2009 [Wynn Netherland](http://wynnnetherland.com). See LICENSE for details.
+Copyright (c) 2010 [Mike Hagedorn](http://silverchairsolutions.com). See LICENSE for details.

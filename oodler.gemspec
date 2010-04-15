@@ -51,7 +51,7 @@ Gem::Specification.new do |s|
      "test/image_test.rb",
      "test/test_helper.rb",
      "test/web_client_test.rb",
-     "examples/authenticate.rb"
+     "examples/listings.rb"
   ]
 
   if s.respond_to? :specification_version then
