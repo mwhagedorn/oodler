@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<oodle_response stat="ok">
+	<current>
+		<region>
+			<id>chicago</id>
+			<name>Chicago</name>
+		</region>
+		<category>
+			<id>vehicle/car</id>
+			<name>Cars</name>
+			<abbrev>Cars</abbrev>
+		</category>
+		<start>1</start>
+		<num>10</num>
+	</current>
+	<listings>
+		<element>
+			<id>1899168373</id>
+			<title>2002 Mazda Tribute</title>
+			<body>Driver seat height adjustment, Front lumbar supports, 60/40 reclining split fold-down rear seat, Height adjustable rear headrests, Removable rear seat cushion, Large center storage console w/(4) cup holders, enclosed storage bin, Color-keyed interior carpeting w/vinyl pad, driver floor mat retention hook, Instrumentation-inc: tachometer, trip odometer, engine temp gauge, Warning lights-inc: check engine, oil pressure, battery charge, low fuel, Cruise control, Immobilizer anti-theft system, Pwr windows w/driver side one-touch down, Pwr door locks w/double action, slam locking, Remote keyless entry w/panic mode, Accessory off delay, Illuminated entry, Remote hood/fuel door release, Air conditioning, Rear heater ducts, Rear window defogger w/timer, (4) speakers, Locking glove box, Ash cup, cigar lighter, Driver footrest, Chrome interior door handles, Front door storage pockets, Rear door ashtray, Center overhead map light, Cargo area lamp, Rear pwr point, Retractable cargo cover, Visor vanity mirrors w/covers</body>
+			<url>http://cars.oodle.com/r_a2xx_/1899168373-11202p456,10-TEST/www.everycarlisted.com___ljfkpK6LhEtSt6l73uN6064DyBKKek7cFjfdds1IVF1KCieUB2edygiIIEolna1CrI18d8nD-tMXC-oqbLj9ce7Yg3iRTPS4AtU1k3hMThk,</url>
+			<category>
+				<id>vehicle/car/suv</id>
+				<name>SUVs</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>41.7201004</latitude>
+				<longitude>-87.7369995</longitude>
+				<address>4630 W 95th St</address>
+				<zip>60453</zip>
+				<addresscode>addr:usa:il:oaklawn:4630+w+95th+st</addresscode>
+				<citycode>usa:il:oaklawn</citycode>
+				<name>Oak Lawn</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1899168373_1m?1271098477</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2002 Mazda Tribute</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1899168373_1s?1271098477</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2002 Mazda Tribute</alt>
+				</element>
+			</images>
+			<ctime>1271098412</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2001_2003-mazda-tribute/chicago-area/suvs/price_5900_8000/mileage_100000+/?inbs=1</similar_url>
+			<attributes>
+				<color>Grey</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Mancaris Chrysler Jeep of Oaklawn</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.0L V6 24V MPFI DOHC</engine_type>
+				<features>Trip Odometer,Tachometer,Roof Rack-Luggage Rack,Keyless Entry,Cruise Control,Air Conditioning</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Mazda</make>
+				<mileage>120394</mileage>
+				<model>Tribute</model>
+				<price>6995</price>
+				<price_display>$6,995</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<vin>4F2YU081X2KM38021</vin>
+				<year>2002</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1899142868</id>
+			<title>2009 Chevrolet Avalanche 1500 LT</title>
+			<body>Seats, rear 60/40 split-bench, 3-passenger, flip and fold with child seat top tether anchor, Console, floor with storage area, cup holders and integrated second row audio controls, Steering column, Tilt-Wheel, adjustable with brake/transmission shift interlock, Steering wheel, leather-wrapped, Steering wheel controls, mounted audio and cruise controls, Cruise control, electronic with set and resume speed, Instrumentation, analog with speedometer, fuel level, voltmeter, engine temperature, oil pressure and tachometer, Warning tones headlamp on, key-in-ignition, driver and right-front passenger safety belt unfasten and turn signal on, Windows, power with driver and front passenger Express-Down and lockout features, Defogger, rear-window electric, Mirror, inside rearview manual day/night, Headliner, cloth, Visors driver and front passenger and illuminated vanity mirrors, padded with cloth trim, extends on rod, Assist handles, front passenger and rear outboard, Lighting, interior with dome lamp</body>
+			<url>http://cars.oodle.com/r_a2xx_/1899142868-11202p457,10-TEST/www.everycarlisted.com___MQb9YG0RXPJSt6l73uN6064DyBKKek7cFjfdds1IVF13WSP0kR-ng9GHDl9SLR5N-kAgUHWoey96rXC6m5PuI7kte-PzNzO5CbvqGpHeWnJA-YMtc4tmEw,,</url>
+			<category>
+				<id>vehicle/car/truck</id>
+				<name>Trucks</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>41.6054993</latitude>
+				<longitude>-88.2020035</longitude>
+				<address>23205 W Lincoln Hwy</address>
+				<zip>60544</zip>
+				<addresscode>addr:usa:il:plainfield:23205+w+lincoln+h</addresscode>
+				<citycode>usa:il:plainfield</citycode>
+				<name>Plainfield</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1899142868_1m?1271096787</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2009 Chevrolet Avalanche 1500 </alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1899142868_1s?1271096787</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2009 Chevrolet Avalanche 1500 </alt>
+				</element>
+			</images>
+			<ctime>1271096568</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2008_2010-chevrolet-avalanche/chicago-area/trucks/price_35000_48000/mileage_0_20000/?inbs=1</similar_url>
+			<attributes>
+				<color>Silver</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Bill Jacobs Plainfield</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>5.3L V8 16V MPFI OHV Flexible Fuel</engine_type>
+				<features>Tachometer,Cruise Control,Air Bags</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Chevrolet</make>
+				<mileage>19920</mileage>
+				<model>Avalanche</model>
+				<price>41375</price>
+				<price_display>$41,375</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<vin>3GNFK22089G194127</vin>
+				<year>2009</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898990164</id>
+			<title>2007 Infiniti G35 Sport</title>
+			<body>Fixed rear head restraints, Front center console w/12V pwr outlet, storage compartment, auxiliary audio input, Fold-down rear seat center armrest w/storage &amp; locking trunk pass though, Front/rear carpeted floor mats, Instrumentation-inc: Fine Vision lighting for speedometer, tachometer, dual digital trip odometers, fuel level/coolant temp gauges &amp; tilt feature, Tire pressure monitoring system, 7&quot; color LCD display w/multi-function trip computer, outside temperature, Retained accessory pwr, Pwr door locks, Remote keyless entry w/selective unlocking, trunk release, fuel door release &amp; panic alarm, Remote opening/closing of windows via door lock, Intelligent key w/push button ignition, Vehicle security system w/vehicle immobilizer, Rear window in-glass antenna w/diversity system, Rear heater vents, Rear window defroster w/timer, Infiniti signature analog clock, Dual front/rear cup holders, Aluminum interior trim-inc: center console, instrument panel, doors, Rear ashtray</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898990164-11202p454,10-TEST/www.everycarlisted.com___a14B6SzgGJ9St6l73uN6064DyBKKek7cFjfdds1IVF2t9hA7UYSeuGzyRC5XGLi1XFFAKOsTnIGjPVjfrqqg97QMP7f1f5h7LSdXL0I6vVo,</url>
+			<category>
+				<id>vehicle/car</id>
+				<name>Cars</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>42.0219994</latitude>
+				<longitude>-87.7468033</longitude>
+				<address>7601 N Skokie Blvd</address>
+				<zip>60077</zip>
+				<addresscode>addr:usa:il:skokie:7601+n+skokie+blvd</addresscode>
+				<citycode>usa:il:skokie</citycode>
+				<name>Skokie</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898990164_1m?1271088462</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2007 Infiniti G35 Sport</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898990164_1s?1271088462</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2007 Infiniti G35 Sport</alt>
+				</element>
+			</images>
+			<ctime>1271088333</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2006_2008-infiniti-g35/chicago-area/price_19000_25000/mileage_40000_60000/?inbs=1</similar_url>
+			<attributes>
+				<color>White</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Sherman Dodge</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.5L V6 24V MPFI DOHC</engine_type>
+				<features>Trip Odometer,Trip Computer,Tachometer,Keyless Entry,Cruise Control,Clock,Center Console</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Infiniti</make>
+				<mileage>44129</mileage>
+				<model>G35</model>
+				<price>21995</price>
+				<price_display>$21,995</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Manual</transmission>
+				<trim>Sport</trim>
+				<vin>JNKBV61E27M711109</vin>
+				<year>2007</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898804032</id>
+			<title>2007 Saturn VUE</title>
+			<body>Front reclining bucket seats w/driver height adjuster, 70/30 split folding rear seatbacks w/2-position recline feature, Center console w/(4) cup holders, hidden storage &amp; (2) 12-volt pwr outlets, Height-adjustable steering column (2005), Leather-wrapped 3-spoke steering wheel w/redundant controls, Pwr windows, Programmable pwr door locks, Cruise control, OnStar w/(1) year Safe &amp; Sound service, Remote keyless entry, Theft-deterrent system, Air conditioning w/dust &amp; pollen filter, Rear defogger w/timer (2005), Auto-dimming rearview mirror w/integral compass, external temp display, Dual visor vanity mirrors w/driver sun visor extender (2005), Driver/front passenger map lights, Rear cargo organizer, Dent-resistant polymer front fenders, door panels, rear quarter panels &amp; bumper fascias, Auto headlamp controls, Daytime running lamps, Body-color manual folding pwr mirrors, Cargo area privacy glass (2005), Tinted rear door glass (2005), Intermittent windshield wipers (2005), Rear window intermittent wiper/washer</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898804032-11202p456,10-TEST/www.everycarlisted.com___WQWeF6q-vWBSt6l73uN6064DyBKKek7cFjfdds1IVF0Upgkbm8PxrC_hx--3XCPmhp_XRwF1MdBeDAwtD5ENucAnw9dNJmvmXEGKEyuDeig,</url>
+			<category>
+				<id>vehicle/car/suv</id>
+				<name>SUVs</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>42.2718010</latitude>
+				<longitude>-87.9520035</longitude>
+				<address>1001 S Milwaukee Ave</address>
+				<zip>60048</zip>
+				<addresscode>addr:usa:il:libertyville:1001+s+milwauke</addresscode>
+				<citycode>usa:il:libertyville</citycode>
+				<name>Libertyville</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898804032_1m?1271079496</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2007 Saturn VUE</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898804032_1s?1271079495</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2007 Saturn VUE</alt>
+				</element>
+			</images>
+			<ctime>1271079392</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2006_2008-saturn-vue/chicago-area/suvs/price_16000_22000/mileage_40000_60000/?inbs=1</similar_url>
+			<attributes>
+				<color>White</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Libertyville Chevrolet</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.5L V6 24V MPFI SOHC</engine_type>
+				<features>Keyless Entry,Cruise Control,Clock,Center Console,CD Player,Air Conditioning</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Saturn</make>
+				<mileage>50097</mileage>
+				<model>VUE</model>
+				<price>18995</price>
+				<price_display>$18,995</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>V6</trim>
+				<vin>5GZCZ634X7S824301</vin>
+				<year>2007</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898818561</id>
+			<title>2009 Toyota Sienna LE</title>
+			<body>Driver seat adjustable lumbar support, Digital quartz clock, Pwr front &amp; side windows w/jam protection, Auto pwr door locks, Pwr soft-touch rear door release, HD rear window defogger, Auxiliary input jack, Front door armrests w/covered storage, (4) map pockets, CD storage compartment, Coin pocket w/sunglasses holder, Upper &amp; lower glove boxes, Overhead console w/conversation mirror, Illuminated entry-inc: front &amp; rear personal lights, cargo area light, front &amp; sliding door courtesy lights, Color-keyed bodyside moldings, Color-keyed bumpers, Halogen auto-off headlights, Washer-linked variable intermittent wipers, Intermittent rear wiper, 3.5L DOHC 24-valve VVT-i V6 engine w/electronic direct ignition, 5-speed automatic transmission w/OD &amp; intelligence (ECT-i), Vehicle stability control (VSC) w/traction control, Front wheel drive, Battery saver, MacPherson strut independent front suspension, Torsion beam rear suspension, Front &amp; rear stabilizer bars, T155/8017 compact spare tire</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898818561-11202p454,10-TEST/www.everycarlisted.com___ljfkpK6LhEtSt6l73uN6064DyBKKek7cFjfdds1IVF0WSqfIBDjBIonAI0Y7fKv_OLPQg5L2E4j77Nm1FJ4JBtJ1uIy5mgW6dN8Q8-65Sco,</url>
+			<category>
+				<id>vehicle/car</id>
+				<name>Cars</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>42.2654991</latitude>
+				<longitude>-87.9481964</longitude>
+				<address>1180 Milwaukee Avenue South</address>
+				<zip>60048</zip>
+				<addresscode>addr:usa:il:libertyville:1180+milwaukee+</addresscode>
+				<citycode>usa:il:libertyville</citycode>
+				<name>Libertyville</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898818561_1m?1271080291</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2009 Toyota Sienna LE</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898818561_1s?1271080291</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2009 Toyota Sienna LE</alt>
+				</element>
+			</images>
+			<ctime>1271080211</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2008_2010-toyota-sienna/chicago-area/price_19000_25000/mileage_20000_40000/?inbs=1</similar_url>
+			<attributes>
+				<color>Silver</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Libertyville Toyota</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.5L V6 24V MPFI DOHC</engine_type>
+				<features>Tachometer,Roof Rack-Luggage Rack,Keyless Entry,Cruise Control,Clock,Air Conditioning</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Toyota</make>
+				<mileage>33641</mileage>
+				<model>Sienna</model>
+				<price>21991</price>
+				<price_display>$21,991</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>LE</trim>
+				<vin>5TDZK23C19S282601</vin>
+				<year>2009</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898798056</id>
+			<title>2006 Nissan Maxima SL</title>
+			<body>5-passenger seating, 60/40 split fold-down rear bench seat w/lock &amp; center armrest, Height adjustable dual-level center console lid w/armrest, Overhead console w/sunglass holder, Lower c-stack storage w/lid, Leather-wrapped sport steering wheel, Immobilizer system, Segmented center display-inc: HVAC temp, digital clock, outside temp display, distance to empty, avg fuel/speed, driving time, maintenance intervals, LCD trip odometer, Front seat belt fastener warning light, Pwr windows w/auto up/down, key cylinder up/down, Pwr door locks w/selective unlocking feature, Cruise control w/steering wheel mounted controls, Remote pwr hood/trunk/fuel-filler door releases, Remote keyless entry system w/pwr window-down feature, Vehicle security system, Dual automatic temp control, Air conditioning w/rear vents, Rear window defroster w/timer, In-glass diversity antenna, Lockable glove box, Front/rear dual cup holders, Front door map pockets, Dual illuminated visor vanity mirrors, Sunvisor extentions</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898798056-11202p1025,10-TEST/www.everycarlisted.com___ljfkpK6LhEtSt6l73uN6064DyBKKek7cFjfdds1IVF0nnQQlHsF45qFHXEePveGQKFWFUt0xNr0tKn915M-eh8dYoDHJZJ1v_02uSL8GJkE,</url>
+			<category>
+				<id>vehicle/car/sedan</id>
+				<name>Sedans</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>42.2654991</latitude>
+				<longitude>-87.9481964</longitude>
+				<address>1180 Milwaukee Avenue South</address>
+				<zip>60048</zip>
+				<addresscode>addr:usa:il:libertyville:1180+milwaukee+</addresscode>
+				<citycode>usa:il:libertyville</citycode>
+				<name>Libertyville</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898798056_1m?1271078970</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2006 Nissan Maxima SL</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898798056_1s?1271078970</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2006 Nissan Maxima SL</alt>
+				</element>
+			</images>
+			<ctime>1271078927</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2005_2007-nissan-maxima/chicago-area/sedans/price_13000_17000/mileage_60000_80000/?inbs=1</similar_url>
+			<attributes>
+				<color>Black</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Libertyville Toyota</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.5L V6 24V MPFI DOHC</engine_type>
+				<features>Trip Odometer,Keyless Entry,Cruise Control,Clock,Center Console,Air Conditioning</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Nissan</make>
+				<mileage>60211</mileage>
+				<miles_per_gallon>28</miles_per_gallon>
+				<model>Maxima</model>
+				<price>14993</price>
+				<price_display>$14,993</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>SL</trim>
+				<vin>1N4BA41E06C830210</vin>
+				<year>2006</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1899172241</id>
+			<title>2009 Toyota Corolla LE</title>
+			<body>Driver seat height adjustment, 60/40-split folding rear seats, Direct tire pressure monitor, Digital clock, Remote trunk release, Air conditioning w/air filtration, HD rear window defogger, (4) cup holders, Front &amp; rear door pockets w/bottle holder, Dual glove compartments, Dual vanity mirrors, (2) 12V auxiliary pwr outlets, Trunk lamp, Driver seat height adjustment, 60/40-split folding rear seats, Direct tire pressure monitor, Digital clock, Remote trunk release, Air conditioning w/air filtration, HD rear window defogger, (4) cup holders, Front &amp; rear door pockets w/bottle holder, Dual glove compartments, Dual vanity mirrors, (2) 12V auxiliary pwr outlets, Trunk lamp, Temporary spare tire, Blackout sport grille, Daytime running lamps, Color-keyed door handles, Temporary spare tire, Blackout sport grille, Daytime running lamps, Color-keyed door handles, 1.8L DOHC SFI 16-valve VVT-i 4-cyl engine, Front wheel drive, Independent MacPherson strut front suspension, Torsion beam rear suspension</body>
+			<url>http://cars.oodle.com/r_a2xx_/1899172241-11202p1025,10-TEST/www.everycarlisted.com___aPq9-Fxl6GxSt6l73uN6064DyBKKek7cFjfdds1IVF0WSqfIBDjBIme6Hn07lr8NiN-nzu5ZSRtdAy8j7kvWkvcyds_YBX7PyO8UEPVxBrk,</url>
+			<category>
+				<id>vehicle/car/sedan</id>
+				<name>Sedans</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>41.8103981</latitude>
+				<longitude>-87.9595032</longitude>
+				<address>550 E Ogden Ave</address>
+				<zip>60559</zip>
+				<addresscode>addr:usa:il:westmont:550+e+ogden+ave</addresscode>
+				<citycode>usa:il:westmont</citycode>
+				<name>Westmont</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1899172241_1m?1271098962</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2009 Toyota Corolla LE</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1899172241_1s?1271098962</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2009 Toyota Corolla LE</alt>
+				</element>
+			</images>
+			<ctime>1271098707</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2008_2010-toyota-corolla/chicago-area/sedans/price_12000_16000/mileage_20000_40000/?inbs=1</similar_url>
+			<attributes>
+				<color>Grey</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Oakbrook Toyota in Westmont</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>1.8L I4 16V MPFI DOHC</engine_type>
+				<features>Tachometer,Clock,Center Console,CD Player,Air Conditioning</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Toyota</make>
+				<mileage>22941</mileage>
+				<miles_per_gallon>35</miles_per_gallon>
+				<model>Corolla</model>
+				<price>13999</price>
+				<price_display>$13,999</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>LE</trim>
+				<vin>1NXBU40E09Z123721</vin>
+				<year>2009</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898760152</id>
+			<title>2010 Honda CR-V</title>
+			<body>Reclining leather heated front bucket seats -inc: 10-way pwr driver seat, driver pwr lumbar, adjustable head restraints, 60/40 split sliding fold &amp; tumble forward rear seats -inc: active head restraints, 40/20/40 reclining seatbacks w/center pass-through, Center console, Tilt &amp; telescopic steering column, Steering wheel-mounted cruise controls, Steering wheel-mounted audio controls, Instrument panel w/white &amp; blue backlit gauges -inc: digital odometer, (2) digital trip meters, Multi-information display, Indicator lights -inc: low fuel, low-oil pressure, door/tailgate open, average fuel consumption, miles-to-empty, Exterior temp indicator, Maintenance Minder system, Instrument panel-mounted leather-wrapped shifter, Pwr windows w/driver auto-up/down, Pwr door &amp; tailgate locks, Remote entry system, Cruise control, Remote fuel filler door release, Security system, Immobilizer theft-deterrent system, Dual zone auto climate control system, Rear seat heater ducts, Rear window defroster</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898760152-11202p456,10-TEST/www.everycarlisted.com___WQWeF6q-vWBSt6l73uN6064DyBKKek7cFjfdds1IVF1mJQI2LZYI0WmvN4bBD3G2-YtRMXqKdX8ZGmRaBp66S3gqZ5PiftP4XEGKEyuDeig,</url>
+			<category>
+				<id>vehicle/car/suv</id>
+				<name>SUVs</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>42.0260010</latitude>
+				<longitude>-87.8776016</longitude>
+				<address>1509 River Rd</address>
+				<zip>60018</zip>
+				<addresscode>addr:usa:il:desplaines:1509+river+rd</addresscode>
+				<citycode>usa:il:desplaines</citycode>
+				<name>Des Plaines</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898760152_1m?1271076699</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2010 Honda CR-V</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898760152_1s?1271076699</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2010 Honda CR-V</alt>
+				</element>
+			</images>
+			<ctime>1271076453</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2009_2011-honda-cr_v/chicago-area/suvs/price_24000_33000/mileage_0_20000/?inbs=1</similar_url>
+			<attributes>
+				<color>Silver</color>
+				<condition>New</condition>
+				<currency>USD</currency>
+				<dealer_id>O&apos;Hare Auto Group</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>2.4L I4 16V MPFI DOHC</engine_type>
+				<features>Front Bucket Seats,Cruise Control,Climate Control,Center Console</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Honda</make>
+				<mileage>10</mileage>
+				<model>CR-V</model>
+				<price>28455</price>
+				<price_display>$28,455</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>EX-L</trim>
+				<vin>5J6RE4H71AL056850</vin>
+				<year>2010</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898649198</id>
+			<title>2007 Honda Accord 3.0 EX</title>
+			<body>Front bucket seats-inc: 8-way pwr driver/4-way pwr passenger seat, driver adjustable lumbar support, Leather trimmed seats &amp; door panel inserts, Heated front seats, Fold down rear seatback w/lock, Center console w/sliding armrest, storage compartment, Fold down rear seat center armrest w/lockable trunk pass-through, (8) front/rear beverage holders, Illuminated steering wheel-mounted audio, cruise &amp; navigation controls, Tilt/telescoping steering column, Gray backlit gauges-inc: tachometer, Digital odometer &amp; (2) trip meters, Outside temp indicator, Indicator lights-inc: maintenance interval, trunk/door-open, oil, brake fluid, fuel/coolant temp, passenger side airbag shut-off, vehicle stability assist, Pwr windows w/auto-up/down driver window, Illuminated pwr window switches, Pwr door locks, Remote keyless entry w/pwr window control, Honda satellite-linked navigation system w/voice recognition, Cruise control, Pwr remote trunk release w/lock, Remote fuel filler door release, HomeLink remote system</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898649198-11202p454,10-TEST/www.everycarlisted.com___a14B6SzgGJ9St6l73uN6064DyBKKek7cFjfdds1IVF1mJQI2LZYI0QDQcUhb1mRbXFFAKOsTnIG7b1AJH13v3XMjiEp1dxNhN7D1g2cKOqs,</url>
+			<category>
+				<id>vehicle/car</id>
+				<name>Cars</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>41.5029984</latitude>
+				<longitude>-87.7516022</longitude>
+				<address>21315 Central Ave</address>
+				<zip>60443</zip>
+				<addresscode>addr:usa:il:matteson:21315+central+ave</addresscode>
+				<citycode>usa:il:matteson</citycode>
+				<name>Matteson</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898649198_1m?1271068036</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2007 Honda Accord 3.0 EX</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898649198_1s?1271068036</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2007 Honda Accord 3.0 EX</alt>
+				</element>
+			</images>
+			<ctime>1271067903</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2006_2008-honda-accord/chicago-area/price_16000_22000/mileage_40000_60000/?inbs=1</similar_url>
+			<attributes>
+				<color>White</color>
+				<condition>Used</condition>
+				<currency>USD</currency>
+				<dealer_id>Sutton Ford</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.0L V6 24V MPFI SOHC</engine_type>
+				<features>Tachometer,Navigation System,Keyless Entry,Front Bucket Seats,Cruise Control,Center Console,Beverage Holder</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Honda</make>
+				<mileage>40593</mileage>
+				<model>Accord</model>
+				<price>18989</price>
+				<price_display>$18,989</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>EX-L</trim>
+				<vin>1HGCM66887A069560</vin>
+				<year>2007</year>
+			</attributes>
+		</element>
+		<element>
+			<id>1898826917</id>
+			<title>2010 Buick LaCrosse CXS</title>
+			<body>Seat adjuster, driver 8-way power, Seat adjuster, driver 4-way power lumbar, Seat adjuster, front passenger 8-way power, Seat, ventilated driver, Seat, ventilated passenger, Headrests, 2-way adjustable, Memory settings includes &quot;presets&quot; for 2 drivers, 8-way power driver/passenger seat with easy exit driver seat and outside mirrors, Floor mats, carpeted front and rear with front fixation points, Sill plates, front, bright, QuietTuning, Buick exclusive process to reduce, block and absorb noise and vibration to create a quiet interior cabin, Steering column, tilt and telescopic, manual, Steering wheel leather and wood grain, heated, Steering wheel controls, mounted audio controls, Compass display, Display, driver instrument information enhanced, multi-color, Windows, power with driver Express-Up/Down, Windows, power with front passenger Express-Up/Down, Windows, power, rear with Express-Down, Retained accessory power power windows</body>
+			<url>http://cars.oodle.com/r_a2xx_/1898826917-11202p1025,10-TEST/www.everycarlisted.com___aPq9-Fxl6GxSt6l73uN6064DyBKKek7cFjfdds1IVF2KbpMtT8A05SGOGKsZsmwQ9_fxEXpSE_K5yL-1K5xBQiyxu2jizye8Z9A_qKTGDsE,</url>
+			<category>
+				<id>vehicle/car/sedan</id>
+				<name>Sedans</name>
+			</category>
+			<source>
+				<id>everycarlisted-bronze</id>
+				<name>EveryCarListed.com</name>
+			</source>
+			<location>
+				<latitude>41.8437004</latitude>
+				<longitude>-87.6239014</longitude>
+				<address>2720 S Michigan Ave</address>
+				<zip>60616</zip>
+				<addresscode>addr:usa:il:chicago:2720+s+michigan+ave</addresscode>
+				<citycode>usa:il:chicago</citycode>
+				<name>Chicago</name>
+				<state>IL</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<element>
+					<src>http://i.oodleimg.com/item/1898826917_1m?1271080762</src>
+					<width>144</width>
+					<height>108</height>
+					<alt>2010 Buick LaCrosse CXS</alt>
+				</element>
+				<element>
+					<src>http://i.oodleimg.com/item/1898826917_1s?1271080762</src>
+					<width>112</width>
+					<height>84</height>
+					<alt>2010 Buick LaCrosse CXS</alt>
+				</element>
+			</images>
+			<ctime>1271080632</ctime>
+			<paid>Yes</paid>
+			<revenue_score>10</revenue_score>
+			<similar_url>http://cars.oodle.com/2009_2011-buick-lacrosse/chicago-area/sedans/price_32000_43000/mileage_0_20000/?inbs=1</similar_url>
+			<attributes>
+				<color>White</color>
+				<condition>New</condition>
+				<currency>USD</currency>
+				<dealer_id>Rogers Auto Group</dealer_id>
+				<delivery>Local Delivery</delivery>
+				<engine_type>3.6L V6 24V GDI DOHC</engine_type>
+				<features>Power Windows,Keyless Entry,Cruise Control,Clock,Climate Control,Air Conditioning,Air Bags</features>
+				<fee>No</fee>
+				<has_photo>Thumbnail</has_photo>
+				<make>Buick</make>
+				<mileage>2</mileage>
+				<miles_per_gallon>26</miles_per_gallon>
+				<model>LaCrosse</model>
+				<price>37152</price>
+				<price_display>$37,152</price_display>
+				<seller_type>Dealer</seller_type>
+				<transmission>Automatic</transmission>
+				<trim>CXS</trim>
+				<vin>1G4GE5GV0AF260990</vin>
+				<year>2010</year>
+			</attributes>
+		</element>
+	</listings>
+	<meta>
+		<total>146440</total>
+		<returned>10</returned>
+		<first>1</first>
+		<last>10</last>
+		<search_time>0.12209</search_time>
+		<search>
+			<title>Cars For Sale around Chicago</title>
+			<url>http://cars.oodle.com/used-cars/chicago-area/</url>
+		</search>
+		<post>
+			<generic>
+				<url>http://www.oodle.com/post/?</url>
+			</generic>
+			<category>
+				<url>http://www.oodle.com/post/?category=vehicle/car</url>
+			</category>
+		</post>
+		<current_time>1271102746</current_time>
+	</meta>
+</oodle_response>

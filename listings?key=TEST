@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<oodle_response stat="fail">
+	<error>Missing region (&apos;region&apos;).  You must specify a region on your API request.  To see the complete list of valid regions, visit http://developer.oodle.com/regions-list</error>
+</oodle_response>

@@ -1,0 +1,5 @@
+<oodle_response stat="fail">
+<error>
+Invalid category ('category').  To see the complete list of valid categories, visit http://developer.oodle.com/categories-list
+</error>
+</oodle_response>
