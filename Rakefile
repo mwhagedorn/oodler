@@ -15,12 +15,13 @@ begin
     
     gem.add_dependency('roxml', '~> 3.1.3')
     gem.add_dependency('crack', '~> 0.1.4')
+    gem.add_dependency('httparty', '>= 0.5.2')
 
     gem.add_development_dependency('shoulda', '>= 2.10.1')
     gem.add_development_dependency('jnunemaker-matchy', '0.4.0')
     gem.add_development_dependency('mocha', '0.9.4')
     gem.add_development_dependency('fakeweb', '>= 1.2.5')
-    gem.add_development_dependency("httparty", ">= 0.5.2")
+    gem.add_development_dependency('httparty', '>= 0.5.2')
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
