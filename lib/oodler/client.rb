@@ -4,7 +4,7 @@ module Oodler
     
     attr_reader :key, :http_options
     
-    def initialize(key=Oodle.key,options={})
+    def initialize(key=Oodler.key,options={})
       @key, @http_options = key,options
     end
     
