@@ -20,7 +20,7 @@ Ooodle's API uses  a key for authentication, you can get a key at http://develop
     # get your api keys at https://www.linkedin.com/secure/developer
     client = Oodler::Client.new("YOURAPIKEY")
 
-### Profile examples
+### Listing examples
 
     # get the profile for the authenticated user
     result = client.listing({:region => "chicago",:category => "vehicle/car"})
