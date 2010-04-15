@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{oodler}
-  s.version = "0.0.1"
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Mike Hagedorn"]
@@ -66,7 +66,6 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<jnunemaker-matchy>, ["= 0.4.0"])
       s.add_development_dependency(%q<mocha>, ["= 0.9.4"])
       s.add_development_dependency(%q<fakeweb>, [">= 1.2.5"])
-      s.add_development_dependency(%q<httparty>, [">= 0.5.2"])
     else
       s.add_dependency(%q<roxml>, ["~> 3.1.3"])
       s.add_dependency(%q<crack>, ["~> 0.1.4"])
@@ -75,7 +74,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<jnunemaker-matchy>, ["= 0.4.0"])
       s.add_dependency(%q<mocha>, ["= 0.9.4"])
       s.add_dependency(%q<fakeweb>, [">= 1.2.5"])
-      s.add_dependency(%q<httparty>, [">= 0.5.2"])
     end
   else
     s.add_dependency(%q<roxml>, ["~> 3.1.3"])
@@ -85,7 +83,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<jnunemaker-matchy>, ["= 0.4.0"])
     s.add_dependency(%q<mocha>, ["= 0.9.4"])
     s.add_dependency(%q<fakeweb>, [">= 1.2.5"])
-    s.add_dependency(%q<httparty>, [">= 0.5.2"])
   end
 end
 
