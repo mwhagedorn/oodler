@@ -23,23 +23,27 @@ module Oodler
 
     #client.search("chicago", {:category =>"vehicle/cars"})
     def search( region, options={})
-      path = ""
-
       options= {:query =>options}
       options[:query].merge!({:region => region}) if region
       
-      OodleResponse.from_xml(get(path, options))
+      self.listing(options)
     end
 
     #helper method - client.search_by_category("chicago", "vehicle/car")
     def search_by_category(region,category, options={})
-      path=""
       options= {:query =>options}
       options[:query].merge!({:region => region}) if region
       options[:query].merge!({:category => category}) if category
+      self.listing(options)
 
-      OodleResponse.from_xml(get(path, options))
+    end
 
+    #specify the :location key for city search, i.e :location=>"Houston, Tx"
+    def usa_job_search(options)
+      options= {:query =>options}
+      options[:query].merge!({:region => "usa"})
+      options[:query].merge!({:category => "job"})
+      self.listing(options)
     end
     
 
@@ -50,6 +54,22 @@ module Oodler
       path = ""
       options= {:query =>options}
       OodleResponse.from_xml(get(path, options))
+    end
+
+    def job_title_attribute(title)
+        "job_title_#{title}"
+    end
+
+    def industry_attribute(title)
+         "industry_#{title}"
+    end
+
+    def company_attribute(title)
+         "company_#{title}"
+    end
+
+    def job_type_attribute(string)
+         "job_type_#{title}"
     end
     
     private

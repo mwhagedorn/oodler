@@ -8,10 +8,15 @@ module Oodler
     xml_reader :num, :in => "current"
     xml_reader :stat, :from => :attr
     xml_reader :error
+    xml_reader :total, :in =>"meta"
+   
 
     def listings
       elements
     end
+
+    
+    
   end
 
 end
