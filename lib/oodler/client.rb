@@ -42,7 +42,6 @@ module Oodler
     def usa_job_search(options)
       options.merge!({:region => "usa"})
       options.merge!({:category => "job"})
-      puts options.inspect
       self.listing(options)
     end
     
@@ -76,7 +75,6 @@ module Oodler
         
       def validate_parameters(options)
         params = options[:query]
-        puts options[:query][:region]
         unless params[:region]
           raise OodleArgumentError, 'Missing region parameter. Visit http://developer.oodle.com/regions-list/ for possible regions.'
         end
