@@ -23,17 +23,14 @@ module Oodler
 
     #client.search("chicago", {:category =>"vehicle/cars"})
     def search( region, options={})
-      options= {:query =>options}
-      options[:query].merge!({:region => region}) if region
-      
+      options.merge!({:region => region})
       self.listing(options)
     end
 
     #helper method - client.search_by_category("chicago", "vehicle/car")
     def search_by_category(region,category, options={})
-      options= {:query =>options}
-      options[:query].merge!({:region => region}) if region
-      options[:query].merge!({:category => category}) if category
+      options.merge!({:region => region}) if region
+      options.merge!({:category => category}) if category
       self.listing(options)
 
     end
@@ -74,7 +71,9 @@ module Oodler
     private
         
       def validate_parameters(options)
+
         params = options[:query]
+   
         unless params[:region]
           raise OodleArgumentError, 'Missing region parameter. Visit http://developer.oodle.com/regions-list/ for possible regions.'
         end

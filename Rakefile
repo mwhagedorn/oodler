@@ -14,7 +14,7 @@ begin
     
     
     gem.add_dependency('roxml', '~> 3.1.3')
-    gem.add_dependency('crack', '~> 0.1.4', '<= 0.1.6')
+    gem.add_dependency('crack', '<= 0.1.6')
     gem.add_dependency('httparty', '>= 0.5.2')
 
     gem.add_development_dependency('shoulda', '>= 2.10.1')
