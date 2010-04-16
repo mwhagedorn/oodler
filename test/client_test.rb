@@ -129,6 +129,13 @@ class ClientTest < Test::Unit::TestCase
 
     end
 
+    should "allow searches using job helper" do
+     stub_get("/api/v2/listings?attributes=job_title_software_engineer&region=usa&key=key&category=job", "listings.xml")
+     p = @oodler.usa_job_search(:attributes => "job_title_software_engineer")
+
+    end
+
+
 
 
 

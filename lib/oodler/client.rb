@@ -40,9 +40,9 @@ module Oodler
 
     #specify the :location key for city search, i.e :location=>"Houston, Tx"
     def usa_job_search(options)
-      options= {:query =>options}
-      options[:query].merge!({:region => "usa"})
-      options[:query].merge!({:category => "job"})
+      options.merge!({:region => "usa"})
+      options.merge!({:category => "job"})
+      puts options.inspect
       self.listing(options)
     end
     
@@ -76,10 +76,11 @@ module Oodler
         
       def validate_parameters(options)
         params = options[:query]
+        puts options[:query][:region]
         unless params[:region]
-          raise OodleArgumentError, 'Missing region paramter. Visit http://developer.oodle.com/regions-list/ for possible regions.'
+          raise OodleArgumentError, 'Missing region parameter. Visit http://developer.oodle.com/regions-list/ for possible regions.'
         end
-        unless params[:category] || options[:q]
+        unless params[:category] || params[:q]
           raise OodleArgumentError, 'You must supply a category or query parameter. Visit http://developer.oodle.com/categories-list/ for possible categories.'
         end
       end
