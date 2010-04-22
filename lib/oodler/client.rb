@@ -15,6 +15,7 @@ module Oodler
     
     def get(path, options={})
       path = "/listings#{path}"
+      delete_empty_keys(options)
       validate_parameters(options)
       response = web_client.get(path, options)
       raise_errors(response)
@@ -36,9 +37,10 @@ module Oodler
     end
 
     #specify the :location key for city search, i.e :location=>"Houston, Tx"
+    #allow job specializaton, i.e. job/tech
     def usa_job_search(options)
       options.merge!({:region => "usa"})
-      options.merge!({:category => "job"})
+      options.merge!({:category => "job"}) unless options[:category]
       self.listing(options)
     end
     
@@ -88,6 +90,10 @@ module Oodler
           raise OodlerError.new(data), "(fail: #{data}"
         end
 
+      end
+
+      def delete_empty_keys(options)
+        options.delete_if{|key,value| value.empty?}
       end
 
       
