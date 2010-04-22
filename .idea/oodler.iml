@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="GemRequirementsHolder" version="2">
+    <requirement>
+      <requirement>
+        <dependency name="crack" version="0.1.4" bound="LATEST_IN_BRANCH" />
+      </requirement>
+      <source from="lib/oodler.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="fakeweb" version="1.2.5" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source from="test/test_helper.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="httparty" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source from="lib/oodler.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="httparty" version="0.5.2" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source from="test/test_helper.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="jnunemaker-matchy" version="0.4.0" bound="EQUAL" />
+      </requirement>
+      <source from="test/test_helper.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="mocha" version="0.9.4" bound="EQUAL" />
+      </requirement>
+      <source from="test/test_helper.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="roxml" version="3.1.3" bound="LATEST_IN_BRANCH" />
+      </requirement>
+      <source from="lib/oodler.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="shoulda" version="2.10.1" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source from="test/test_helper.rb" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nokogiri (v1.3.3, /opt/local/lib/ruby/gems/1.8/gems/nokogiri-1.3.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v0.8.7, /opt/local/lib/ruby/gems/1.8/gems/rake-0.8.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] roxml (v3.1.5, /opt/local/lib/ruby/gems/1.8/gems/roxml-3.1.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] httparty (v0.5.2, /opt/local/lib/ruby/gems/1.8/gems/httparty-0.5.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mocha (v0.9.4, /opt/local/lib/ruby/gems/1.8/gems/mocha-0.9.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] jnunemaker-matchy (v0.4.0, /opt/local/lib/ruby/gems/1.8/gems/jnunemaker-matchy-0.4.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] crack (v0.1.6, /Users/mhagedorn/.gem/ruby/1.8/gems/crack-0.1.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v2.3.5, /opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] fakeweb (v1.2.8, /opt/local/lib/ruby/gems/1.8/gems/fakeweb-1.2.8)" level="application" />
+  </component>
+</module>
+
