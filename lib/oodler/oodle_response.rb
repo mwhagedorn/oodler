@@ -9,6 +9,7 @@ module Oodler
     xml_reader :stat, :from => :attr
     xml_reader :error
     xml_reader :total, :in =>"meta"
+    xml_reader :refinements, :as =>Refinements
    
 
     def listings

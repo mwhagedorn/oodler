@@ -54,6 +54,10 @@ module Oodler
 end
 
 directory = File.expand_path(File.dirname(__FILE__))
+
+require File.join(directory, "oodler", 'refinement_value')
+require File.join(directory, "oodler", 'refinement')
+require File.join(directory, "oodler", 'refinements')
 require File.join(directory, "oodler", 'category')
 require File.join(directory, "oodler", 'region')
 require File.join(directory, 'oodler', 'web_client')

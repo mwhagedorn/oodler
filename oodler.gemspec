@@ -28,6 +28,9 @@ Gem::Specification.new do |s|
      "lib/oodler/image.rb",
      "lib/oodler/location.rb",
      "lib/oodler/oodle_response.rb",
+     "lib/oodler/refinement.rb",
+     "lib/oodler/refinement_value.rb",
+     "lib/oodler/refinements.rb",
      "lib/oodler/region.rb",
      "lib/oodler/source.rb",
      "lib/oodler/web_client.rb",
@@ -36,6 +39,7 @@ Gem::Specification.new do |s|
      "test/fixtures/blank.xml",
      "test/fixtures/fail.xml",
      "test/fixtures/listings.xml",
+     "test/fixtures/refinement.xml",
      "test/image_test.rb",
      "test/test_helper.rb",
      "test/web_client_test.rb"
