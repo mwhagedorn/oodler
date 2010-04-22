@@ -11,6 +11,7 @@ module Oodler
      end
 
      def get(path,options)
+       options[:query] ||={}
        options[:query].merge!({:key => @key}) if @key
        validate_parameters(options)
        self.class.get(path,options)

@@ -3,6 +3,12 @@
   <component name="GemRequirementsHolder" version="2">
     <requirement>
       <requirement>
+        <dependency name="crack" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="crack" version="0.1.4" bound="LATEST_IN_BRANCH" />
       </requirement>
       <source from="lib/oodler.rb" />
@@ -17,6 +23,7 @@
       <requirement>
         <dependency name="httparty" version="0" bound="GREATER_OR_EQUAL" />
       </requirement>
+      <source manual="true" />
       <source from="lib/oodler.rb" />
     </requirement>
     <requirement>
@@ -36,6 +43,18 @@
         <dependency name="mocha" version="0.9.4" bound="EQUAL" />
       </requirement>
       <source from="test/test_helper.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="oodler" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="roxml" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source manual="true" />
     </requirement>
     <requirement>
       <requirement>
@@ -63,6 +82,7 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] crack (v0.1.6, /Users/mhagedorn/.gem/ruby/1.8/gems/crack-0.1.6)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v2.3.5, /opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] fakeweb (v1.2.8, /opt/local/lib/ruby/gems/1.8/gems/fakeweb-1.2.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] oodler (v0.1.8, /Users/mhagedorn/.gem/ruby/1.8/gems/oodler-0.1.8)" level="application" />
   </component>
 </module>
 

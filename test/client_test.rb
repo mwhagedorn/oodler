@@ -16,6 +16,12 @@ class ClientTest < Test::Unit::TestCase
       @oodler.web_client.should == wc
 
     end
+  context "and using the usa_jobs conv method" do
+    should " allow you to override the category param" do
+       stub_get("/api/v2/listings?region=usa&category=job%2Ftech&key=key", "listings.xml")
+       @oodler.usa_job_search(:category => "job/tech")
+    end
+  end
 
    context "and a region is not provided" do
       should "throw an error" do

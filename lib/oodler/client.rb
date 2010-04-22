@@ -40,7 +40,7 @@ module Oodler
     #allow job specializaton, i.e. job/tech
     def usa_job_search(options)
       options.merge!({:region => "usa"})
-      options.merge!({:category => "job"}) unless options[:category]
+      options.merge!({:category => "job"}) unless options && options[:category]
       self.listing(options)
     end
     
@@ -74,12 +74,17 @@ module Oodler
         
       def validate_parameters(options)
 
+
+        if options.empty?
+          raise OodleArgumentError, 'Missing region and category parameter. Visit http://developer.oodle.com/regions-list/ for possible regions.'
+        end
+
         params = options[:query]
    
-        unless params[:region]
+        unless params.nil? || params[:region]
           raise OodleArgumentError, 'Missing region parameter. Visit http://developer.oodle.com/regions-list/ for possible regions.'
         end
-        unless params[:category] || params[:q]
+        unless  params[:category] || params[:q]
           raise OodleArgumentError, 'You must supply a category or query parameter. Visit http://developer.oodle.com/categories-list/ for possible categories.'
         end
       end
