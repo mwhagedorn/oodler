@@ -145,9 +145,7 @@ class ClientTest < Test::Unit::TestCase
      stub_get("/api/v2/listings?attributes=job_title_software_engineer&region=usa&key=key&category=job", "refinement.xml")
      p = @oodler.usa_job_search(:attributes => "job_title_software_engineer")
      p.refinements.values.should_not be_empty
-     p.refinements.values[0].name.should == "Job Title" 
-
-
+     p.refinements.values[0].name.should == "Job Title"
     end
 
 
